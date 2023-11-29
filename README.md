@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image]({[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)})
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <!--
 **cmstucke/cmstucke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
