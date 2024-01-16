@@ -15,11 +15,16 @@ Please also see:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-I have a design background and have endeavored to stay creative in my professional roles since school. At first exploring opportunities of a few different genres, I noticed some of the most enthusiastic and creative people in my life began to thrive in tech roles, so I became interested and began to pursue it myself.
+A little bit about me!
 
-Earlier in 2023 I was accepted into and have just recently completed App Academy’s full-stack software development course. I’ve been fortunate enough to gain quite a few experiences in a short amount of time: I structured a database and backend routes in Javascript using Sequelize and mapping to an Express framework, I collaborated in a team of developers to create a messaging app employing websockets and cloud storage, and I’ve emulated an ecommerce experience with React components to allow a user to create a shop feature and populate it with products.
+Number of times a day I think about the Roman Empire 🤪:
 
-I’m thrilled to begin searching for my next role, where I hope I can not only exercise the skills I’ve gained, but also continue a path of creativity in critical thinking, and play a small part making the products and services we all depend on more people-friendly.
+I don’t, but I marvel at the history of the Roman Republic. Rome didn’t begin as the power- and resource-hungry behemoth that fills the setting for so many Hollywood epics, and the entire Mediterranean didn’t suddenly wake up under Italian domination at the turn of the first millennium. Instead, the story preceding these circumstances is maybe the finest western example of a nation-state’s fall from grace relative to their own institutional values, beginning as a fledgling representative democracy with a few decent ideas about leadership and public equity, but ultimately propelled by warlike nature to geopolitical hegemony over a block of states that it was not prepared to lead in good faith.
+	When I think about action and drama in the ancient world, I’m less interested in imperial cohorts slowly but surely stamping out tribal resistance and fringe states that could not hope to match Rome’s resources. I’m instead fascinated by the morbidly gargantuan, near-science fiction scales of conflict that the republic sustained with their Phoenician, Greek, Celtic, and Germanic neighbors. Instead of a generation-defining monarch (or four) every couple of decades, the previously powerful senate set an ensemble stage of philosophers, attorneys, military leaders, and revolutionaries that would butt heads in contests of ideas and celebrity with every election cycle. Perhaps even more pertinently than its successor, the republic was also a demonstration of how the human costs of oligarchy, slavery, and settler colonialism erode the foundations of any democratic institution, no matter how seemingly permanent.
+	The subject of ancient Rome, in all its iterations, routinely finds itself at the heart of modern eurocentrism and mistaken supremacy. By winding the clock of context back just a few hundred years or so, present-day dads of TikTok may come to understand Imperial Rome more authentically relative to the scholarly and archeological records available to the modern world - not as a testament to Republican Rome’s mightiest achievements, but as a consequence of their most grievous mistakes.
+
+Looking for a job in software engineering.
+
 <!--
 **cmstucke/cmstucke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
